@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+*.iml
+modules.xml
+*.ipr
+Thumbs.db
+Desktop.ini
+._*
+_site
+.sass-cache
+.jekyll-metadata
